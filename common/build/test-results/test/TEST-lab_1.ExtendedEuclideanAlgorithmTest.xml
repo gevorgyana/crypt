@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab_1.ExtendedEuclideanAlgorithmTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-06-06T08:03:21" hostname="i516739" time="0.227">
+  <properties/>
+  <testcase name="testGcd" classname="lab_1.ExtendedEuclideanAlgorithmTest" time="0.149"/>
+  <testcase name="testXYFromGcd" classname="lab_1.ExtendedEuclideanAlgorithmTest" time="0.077"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab_1.FermatTestTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-06T08:03:28" hostname="i516739" time="1.833">
+  <properties/>
+  <testcase name="testIsPrime" classname="lab_1.FermatTestTest" time="1.833"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
